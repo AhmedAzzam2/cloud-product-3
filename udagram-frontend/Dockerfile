@@ -1,3 +1,4 @@
+## Build
 FROM beevelop/ionic:latest AS ionic
 # Create app directory
 WORKDIR /usr/src/app
